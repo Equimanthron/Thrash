@@ -1,1 +1,4 @@
 # Thrash
+
+Exodus
+Slayer
